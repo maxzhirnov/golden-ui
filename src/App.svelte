@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Feed:</h1>
+	<h1>Golden feed:</h1>
 	<Feed/>
 </main>
 
